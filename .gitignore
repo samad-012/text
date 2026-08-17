@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Generated audio / test artifacts
+*.wav
+*.mp3
+
+# IDE
+.vscode/
+.idea/
