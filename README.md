@@ -3,7 +3,7 @@
 
 A voice AI restaurant reservation assistant built as a take-home assignment for **Anjan AI**.
 
-The agent allows customers to interact with a fictional restaurant, **Saffron Table**, using natural voice conversation. It can understand speech, respond with speech, and take real actions through reservation tools.
+The agent allows customers to interact with a fictional restaurant, **Saffron **, using natural voice conversation. It can understand speech, respond with speech, and take real actions through reservation tools.
 
 The project implements **two voice interaction modes using the same agent and reservation tools**:
 
