@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # Voice AI Restaurant Reservation Agent
 
 A voice AI restaurant reservation assistant built as a take-home assignment for **Anjan AI**.
